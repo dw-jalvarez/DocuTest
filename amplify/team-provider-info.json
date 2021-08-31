@@ -1,15 +1,23 @@
 {
-  "dev": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-docusaurus-dev-144412-authRole",
-      "UnauthRoleArn": "arn:aws:iam::074327300156:role/amplify-docusaurus-dev-144412-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::074327300156:role/amplify-docusaurus-dev-144412-authRole",
-      "Region": "eu-west-2",
-      "DeploymentBucketName": "amplify-docusaurus-dev-144412-deployment",
-      "UnauthRoleName": "amplify-docusaurus-dev-144412-unauthRole",
-      "StackName": "amplify-docusaurus-dev-144412",
-      "StackId": "arn:aws:cloudformation:eu-west-2:074327300156:stack/amplify-docusaurus-dev-144412/25e2a420-0a59-11ec-9580-0a2c5646913c",
-      "AmplifyAppId": "d8xlwj777ncb0"
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-docusaurus-dev-144412-authRole",
+            "UnauthRoleArn": "arn:aws:iam::074327300156:role/amplify-docusaurus-dev-144412-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::074327300156:role/amplify-docusaurus-dev-144412-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-docusaurus-dev-144412-deployment",
+            "UnauthRoleName": "amplify-docusaurus-dev-144412-unauthRole",
+            "StackName": "amplify-docusaurus-dev-144412",
+            "StackId": "arn:aws:cloudformation:eu-west-2:074327300156:stack/amplify-docusaurus-dev-144412/25e2a420-0a59-11ec-9580-0a2c5646913c",
+            "AmplifyAppId": "d8xlwj777ncb0"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d8xlwj777ncb0",
+                    "type": "cicd"
+                }
+            }
+        }
     }
-  }
 }
