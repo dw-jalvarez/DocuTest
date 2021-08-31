@@ -1,11 +1,11 @@
 {
-  "projectName": "docutestgo",
+  "projectName": "docusaurus",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
     "framework": "react",
     "config": {
-      "SourceDir": "src",
+      "SourceDir": ".",
       "DistributionDir": "build",
       "BuildCommand": "yarn build",
       "StartCommand": "yarn build"
