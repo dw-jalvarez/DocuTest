@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-docutestcli-dev-124702-authRole",
+      "UnauthRoleArn": "arn:aws:iam::074327300156:role/amplify-docutestcli-dev-124702-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::074327300156:role/amplify-docutestcli-dev-124702-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-docutestcli-dev-124702-deployment",
+      "UnauthRoleName": "amplify-docutestcli-dev-124702-unauthRole",
+      "StackName": "amplify-docutestcli-dev-124702",
+      "StackId": "arn:aws:cloudformation:eu-west-2:074327300156:stack/amplify-docutestcli-dev-124702/c76c9d70-0a48-11ec-bbe5-02a288f3b154",
+      "AmplifyAppId": "d35kw2qvs8szk5"
+    }
+  }
+}
